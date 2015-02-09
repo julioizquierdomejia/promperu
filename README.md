@@ -1,2 +1,0 @@
-# promperu
-Landing Promperu - Responsive
